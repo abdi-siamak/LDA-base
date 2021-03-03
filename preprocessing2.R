@@ -32,5 +32,5 @@ cat("W:\n ",length(ww))
 cat("M:\n ",i-1)
 M <- i-1                                        # number of all documents
 ################################################################################################
-### output: (docs_len,M,W,gibbs)
+### output: (docs_len, M, W, gibbs)
 
