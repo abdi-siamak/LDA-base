@@ -1,3 +1,7 @@
+#################################################
+(C) Siamak Abdi - 2020
+
+#################################################
 Path <- setwd("D:/Program Files/RStudio/projects/lda-Base/")
 K = 4                                                     # number of topics/clusters
 alpha = 1
