@@ -187,6 +187,6 @@ for (t in 1:W) {
   document_term_matrix[as.integer(gibbs[t,2]),gibbs[t,1]] <- document_term_matrix[as.integer(gibbs[t,2]),gibbs[t,1]] + 1
 }
 #######################################################
-## output matrix: gibbs,percent,PHI,THETA, TopPHI
+## output matrix: gibbs, percent, PHI, THETA, TopPHI
 
 
