@@ -1,6 +1,6 @@
 #################################################
-(C) Siamak Abdi - 2020
-
+# (C) Siamak Abdi - 2020
+# Implementation of the collapsed Gibbs sampling for Latent Dirichlet Allocation (LDA) model in R.
 #################################################
 Path <- setwd("D:/Program Files/RStudio/projects/lda-Base/")
 K = 4                                                     # number of topics/clusters
